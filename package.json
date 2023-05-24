@@ -1,0 +1,12 @@
+{
+  "name": "npmaccesstokengenerator",
+  "version": "1.0.0",
+  "description": "Access token generator for MC accounts",
+  "main": "index.js",
+  "author": "LocutusVonBorg",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.41.2",
+    "mineflayer": "^4.8.1"
+  }
+}
